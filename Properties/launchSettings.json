@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnlockVBA": {
+      "commandName": "Project",
+      "commandLineArgs": "-in c:\\tmp\\Database1.accdb -out c:\\tmp\\Database1.decode.accdb"
+    }
+  }
+}
